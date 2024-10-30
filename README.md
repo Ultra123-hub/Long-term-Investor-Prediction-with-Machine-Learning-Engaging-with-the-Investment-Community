@@ -5,7 +5,13 @@ This project will aim to employ machine learning for the task of predicting the 
 
 This repository embodies a machine learning project that analyzes the customer data of one of the leading investment banks. Here, I predicted long-term deposit makers and investors in order to enhance customer engagement, optimize resource allocation, and drive long-term profitability as far as the investment bank is concerned. This project will be carried out using the **CRoss Industry Standard Process for Data Mining *(CRISP-DM)*** methodology, which generally is characterized by six phases.
 
-## CRISP-DM <br>
+## CRISP-DM <be>
+
+<p align="left">
+  <img src="crisp.png" alt="description" width="700" height="auto"/>
+</p>
+
+
 1. Business understanding.
 2. Data understanding.
 3. Data preparation.
