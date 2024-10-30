@@ -102,7 +102,7 @@ More specifically, the target exhibits the best level of correlation with the:
 ## Data Preparation
 
 <p align="left">
-  <img src="data_prerparation.png" alt="description" width="700" height="auto"/>
+  <img src="data_preparation.png" alt="description" width="700" height="auto"/>
 </p>
 
 
