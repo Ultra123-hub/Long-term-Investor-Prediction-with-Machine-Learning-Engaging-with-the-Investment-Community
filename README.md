@@ -146,7 +146,7 @@ Further optimization of the models might result in better models. This can be ex
 
 
 ## Technologies Used
-**Ananconda**
-**Jupyter notebook**
-**Pandas, NumPy, Matplotlib, Seaborn**
-**Scikit-learn, logistic regression, catboost, random forest**
+**Ananconda** <br>
+**Jupyter notebook** <br>
+**Pandas, NumPy, Matplotlib, Seaborn** <br>
+**Scikit-learn, logistic regression, catboost, random forest** <br>
