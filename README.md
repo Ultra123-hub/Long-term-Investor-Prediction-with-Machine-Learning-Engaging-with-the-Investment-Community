@@ -138,17 +138,7 @@ The logistic regression model can be difficult to tune, as it has very few hyper
   <img src="hyperparameter.png" alt="description" width="700" height="auto"/>
 </p>
 
-Based on our final observations from the optimization process, we have not been able to improve the models. This may be due to:
 
-1. Insufficient data
-2. Focusing on a small/wrong range of hyperparameters.
-3. Focusing on the wrong hyperparameters.
-
-Further optimization of the models might result in better models. This can be explored further. At this point, either model performs quite adequately. The final choice would be the Logistic Model, due to:
-
-1. Lower generalization error,
-2. Faster training, and
-3. More explanability
 
 
 ## Technologies Used
